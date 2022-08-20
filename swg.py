@@ -1,5 +1,3 @@
-# Made by aryaman :)
-
 
 import random
 import time
@@ -19,6 +17,7 @@ time.sleep(1)
 # t1 => input from user
 # t2 => input from computer (random)
  
+
 t1 = int(input('Your Turn: \n 1. Snake \n 2. Water \n 3. Gun\n\n-> '))
 t2 = random.randint(1, 3)
 
