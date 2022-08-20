@@ -1,2 +1,2 @@
-# Py-games
+# Py-thon
 Learning PyThon
